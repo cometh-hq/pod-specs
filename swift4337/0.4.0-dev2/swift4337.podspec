@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name = 'swift4337'
-  s.version = '0.4.0-dev1'
+  s.version = '0.4.0-dev2'
   s.license = 'MIT'
   s.summary = 'swift4337'
-  s.homepage = 'https://github.com/cometh-hq/swift4337'
+  s.homepage = 'https://github.com/a-thomas/swift4337'
   s.authors = { 'Fred' => 'fred@cometh.io' }
   s.source = { :git => 'https://github.com/cometh-hq/swift4337', :tag => s.version.to_s }
   s.module_name = 'swift4337'
